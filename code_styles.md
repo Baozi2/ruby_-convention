@@ -15,6 +15,23 @@
 
 3. 字符串非特殊情况一律使用双引号
 
-4. 
+4. 方法之间添加一个空行
 
+5. 使用两个空格缩进
+
+6. 文件末尾不需要空行
+
+7. private 空一行
+  
+	```
+   class Demo
+	   def show
+		 end
+		 
+		 private
+		   
+			 def show_time
+			 end
+	 end
+	```
 使用 [rubocop](https://github.com/rubocop-hq/rubocop)检查编码风格
