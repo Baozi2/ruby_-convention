@@ -22,16 +22,7 @@
 6. 文件末尾不需要空行
 
 7. private 空一行
-  
-	```
-   class Demo
-	   def show
-		 end
-		 
-		 private
-		   
-			 def show_time
-			 end
-	 end
-	```
+
+  ![](./private.png)
+
 使用 [rubocop](https://github.com/rubocop-hq/rubocop)检查编码风格
