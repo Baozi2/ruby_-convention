@@ -23,6 +23,14 @@
 
 7. private 空一行
 
-  ![](./private.png)
+    ![](./images/private.png)
+
+
+----
+
+### rails
+ 
+  1. 使用日志，日志内容使用代码块代替字符串参数
+	 ![](./images/logger.png)
 
 使用 [rubocop](https://github.com/rubocop-hq/rubocop)检查编码风格
